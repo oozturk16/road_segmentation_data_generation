@@ -23,7 +23,7 @@ Ozturk, O., Isik, M. S., Sariturk, B., Seker, D. Z. (2022). Generation of Istanb
 
 
 ```
-@article{Ozturk_et_al_2022,
+@article{Ozturk2022,
 	author = {Ozturk,Ozan and Isik,Mustafa Serkan and Sariturk,Batuhan and Seker,Dursun Zafer},
 	title = {Generation of Istanbul Road Data Set using Google Map API for Deep Learning-Based Segmentation},
 	journal = {International Journal of Remote Sensing},
