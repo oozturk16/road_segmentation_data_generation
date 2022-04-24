@@ -19,14 +19,15 @@ The code is configured to generate the mask imagesd that contains only road info
 
 ## How to cite:
 
-Ozturk, O., Isik, M. S., Sariturk, B., Seker, D. Z. (2022). Generation of Istanbul Road Data Set using Google Map API for Deep Learning-Based Segmentation. Submitted to International Journal of Remote Sensing.
+Ozturk, O., Isik, M. S., Sariturk, B., Seker, D. Z. (2022). Generation of Istanbul Road Data Set using Google Map API for Deep Learning-Based Segmentation. International Journal of Remote Sensing, DOI: http://dx.doi.org/10.1080/01431161.2022.2068989.
 
 
 ```
-@article{Ozturk2022,
-author = {Ozturk, Ozan and Isik, Mustafa Serkan and Sariturk, Batuhan and Seker, Dursun Zafer},
-journal = {Submitted to International Journal of Remote Sensing,
-title = {{Generation of Istanbul Road Data Set using Google Map API for Deep Learning-Based Segmentation}},
-year = {2022}
+@article{Ozturk_et_al_2022,
+	author = {Ozturk,Ozan and Isik,Mustafa Serkan and Sariturk,Batuhan and Seker,Dursun Zafer},
+	title = {Generation of Istanbul Road Data Set using Google Map API for Deep Learning-Based Segmentation},
+	journal = {International Journal of Remote Sensing},
+	year = {2022},
+	doi = {10.1080/01431161.2022.2068989},
 }
 ```
